@@ -33,5 +33,6 @@ AI Researcher
 ***DKI Technology***
 Seoul, Korea
 - `2020.12. - 2021.12.`
+AI Engineer
 ***T3Q***
 Seoul, Korea
