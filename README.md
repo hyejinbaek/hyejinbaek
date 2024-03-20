@@ -12,7 +12,7 @@
 ## Areas of Interest
 
 - Data Preprocessing
-- MLops
+- MLOps
 - Missing value imputation
   
 ## Skills
