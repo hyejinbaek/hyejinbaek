@@ -1,16 +1,37 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=200&text=Hyejin%20Baek&animation=fadeIn)
+<p align="center">
 
-<!--
-**hyejinbaek/hyejinbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hyejin Baek(백혜진)
 
-Here are some ideas to get you started:
+## Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ph.Sc. student @ [CAU AutoML Lab](ml.cau.ac.kr)
+- I am currently studying Missing value imputation(Data Preprocessing).
+-  📧: bhj4208 at gmail
+
+## Areas of Interest
+
+- Data Preprocessing
+- MLops
+- Missing value imputation
+  
+## Skills
+
+- Programming: Python, R, C,
+- Library/Framework: PyTorch, TensorFlow, Elastic search, MySQL, Tibero, Pandas, scikit-learn, Django.
+- Tool: VS Code, Pycharm, R studio.
+- OS: Linux (Ubuntu), Windows
+
+## Education & Career
+
+- `2022.09. - 2024.08.`
+M.Sc. Course
+***Department of Artificial Intelligence, Chung-Ang University***
+Seoul, Korea
+- `2022.02. - 2022.08.`
+AI Researcher
+***DKI Technology***
+Seoul, Korea
+- `2020.12. - 2021.12.`
+***T3Q***
+Seoul, Korea
