@@ -18,7 +18,7 @@
 ## Skills
 
 - Programming: Python, R, C.
-- Library/Framework: PyTorch, TensorFlow, Elastic search, MySQL, Tibero, Pandas, scikit-learn, Django.
+- Library/Framework: PyTorch, TensorFlow, Elastic search, MySQL, Tibero, Pandas, scikit-learn, Django, etc.
 - Tool: VS Code, Pycharm, R studio.
 - OS: Linux (Ubuntu), Windows
 
