@@ -13,7 +13,8 @@
 
 - Data Preprocessing
 - MLOps
-- Missing value imputation
+- Machine Learning
+- Deep Learning
   
 ## Skills
 
