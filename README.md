@@ -28,6 +28,9 @@
 M.Sc. Course
 ***Department of Artificial Intelligence, Chung-Ang University***
 Seoul, Korea
+- `2022.05. - 2022.05.`
+***Docker and Kubernetes for Service Deployment***
+Korea Polytechnic University (Seoul Jeongsu Campus)
 - `2022.02. - 2022.08.`
 AI Researcher
 ***DKI Technology***
@@ -36,3 +39,7 @@ Seoul, Korea
 AI Engineer
 ***T3Q***
 Seoul, Korea
+- `2018.12. - 2019.01.`
+***4th Industrial Humanities Convergence Big Data Analysis Planner 3***
+Korea Convergence Technology Promotion Agency
+
