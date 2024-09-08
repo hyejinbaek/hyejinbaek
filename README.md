@@ -5,7 +5,7 @@
 
 ## Introduction
 
-- M.Sc. student @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
+- Data/AI Scientist
 
 -  📧: bhj4208 at gmail
 
@@ -26,9 +26,9 @@
 ## Education & Career
 
 - `2022.09. - 2024.08.`
-M.Sc. Course
+M.Sc. Course @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
 ***Department of Artificial Intelligence, Chung-Ang University***
-Seoul, Korea
+Seoul, Korea 
 - `2022.05. - 2022.05.`
 ***Docker and Kubernetes for Service Deployment***
 Korea Polytechnic University (Seoul Jeongsu Campus)
