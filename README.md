@@ -6,7 +6,7 @@
 ## Introduction
 
 - M.Sc. student @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
-- I am currently studying Missing value imputation(Data Preprocessing).
+
 -  📧: bhj4208 at gmail
 
 ## Areas of Interest
