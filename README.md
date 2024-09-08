@@ -26,7 +26,7 @@
 ## Education & Career
 
 - `2022.09. - 2024.08.`
-M.Sc. Course @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
+M.Sc. @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
 ***Department of Artificial Intelligence, Chung-Ang University***
 Seoul, Korea 
 - `2022.05. - 2022.05.`
