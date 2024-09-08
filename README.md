@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Data/AI Scientist
+- Data/AI Scientist
 
 -  📧: bhj4208 at gmail
 
