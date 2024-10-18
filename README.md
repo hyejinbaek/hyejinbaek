@@ -24,7 +24,10 @@
 - OS: Linux (Ubuntu), Windows, etc.
 
 ## Education & Career
-
+- `2024.10. - `
+Data Scientist
+***Working for a company related to the mobility industry***
+Anyang, Korea
 - `2022.09. - 2024.08.`
 M.Sc. @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
 ***Department of Artificial Intelligence, Chung-Ang University***
