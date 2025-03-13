@@ -18,10 +18,11 @@
   
 ## Skills
 
-- Programming: Python, R, C, etc.
-- Library/Framework: PyTorch, TensorFlow, Elastic search, MySQL, Tibero, Pandas, scikit-learn, Django, etc.
+- Programming: Python, R, C, html, css, javascript
+- Library/Framework: PyTorch, TensorFlow, Elastic search, MySQL, Tibero, MySQL, Flask, Django, etc.
 - Tool: VS Code, Pycharm, R studio, etc.
 - OS: Linux (Ubuntu), Windows, etc.
+- AWS : lambda, EC2
 
 ## Education & Career
 - `2024.10. - `
